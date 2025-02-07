@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct Hike_AppApp: App {
+struct Hike_App: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

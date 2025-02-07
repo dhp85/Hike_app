@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		F7026F6D2D5284AB005AD494 /* Hike_App */ = {
+		F7C58CB12D528F8B0092125A /* Hike_App */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = Hike_App;
 			sourceTree = "<group>";
@@ -32,7 +32,7 @@
 		F7026F622D5284AB005AD494 = {
 			isa = PBXGroup;
 			children = (
-				F7026F6D2D5284AB005AD494 /* Hike_App */,
+				F7C58CB12D528F8B0092125A /* Hike_App */,
 				F7026F6C2D5284AB005AD494 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				F7026F6D2D5284AB005AD494 /* Hike_App */,
+				F7C58CB12D528F8B0092125A /* Hike_App */,
 			);
 			name = Hike_App;
 			packageProductDependencies = (
@@ -249,6 +249,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Hike_App/Preview Content\"";
@@ -277,6 +278,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Hike_App/Preview Content\"";
